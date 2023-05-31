@@ -1,0 +1,19 @@
+{
+  "name": "nodeserverstudies",
+  "version": "1.0.0",
+  "description": "Node Server Studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimaraesmthz/nodeServerStudies.git"
+  },
+  "author": "Matheus Guimarães",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimaraesmthz/nodeServerStudies/issues"
+  },
+  "homepage": "https://github.com/guimaraesmthz/nodeServerStudies#readme"
+}
