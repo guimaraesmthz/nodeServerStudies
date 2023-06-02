@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guimaraesmthz/nodeServerStudies/issues"
   },
-  "homepage": "https://github.com/guimaraesmthz/nodeServerStudies#readme"
+  "homepage": "https://github.com/guimaraesmthz/nodeServerStudies#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
